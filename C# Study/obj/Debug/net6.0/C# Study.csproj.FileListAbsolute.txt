@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\bin\Debug\net6.0\C# Study.exe
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\bin\Debug\net6.0\C# Study.deps.json
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\bin\Debug\net6.0\C# Study.runtimeconfig.json
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\bin\Debug\net6.0\C# Study.dll
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\bin\Debug\net6.0\C# Study.pdb
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\C# Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\C# Study.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\C# Study.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\C# Study.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\C# Study.sourcelink.json
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\C# Study.dll
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\refint\C# Study.dll
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\C# Study.pdb
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\C# Study.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C_study\C-Study\C# Study\obj\Debug\net6.0\ref\C# Study.dll
