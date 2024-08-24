@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C# Study", "C# Study.csproj", "{1848FE9F-FE83-443D-85CB-14D5034CD831}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "클래스와 메소드", "..\클래스와 메소드\클래스와 메소드.csproj", "{0B7D3358-90BA-414B-921E-6A9CD6A5E9A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "클래스와 메소드", "..\클래스와 메소드\클래스와 메소드.csproj", "{0B7D3358-90BA-414B-921E-6A9CD6A5E9A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 흐름 제어", "..\코드 흐름 제어\코드 흐름 제어.csproj", "{0E38B062-1259-476C-B2BC-B6C3493BDA13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0B7D3358-90BA-414B-921E-6A9CD6A5E9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B7D3358-90BA-414B-921E-6A9CD6A5E9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B7D3358-90BA-414B-921E-6A9CD6A5E9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E38B062-1259-476C-B2BC-B6C3493BDA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E38B062-1259-476C-B2BC-B6C3493BDA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E38B062-1259-476C-B2BC-B6C3493BDA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E38B062-1259-476C-B2BC-B6C3493BDA13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

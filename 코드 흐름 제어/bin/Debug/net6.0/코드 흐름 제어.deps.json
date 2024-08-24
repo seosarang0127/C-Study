@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "코드 흐름 제어/1.0.0": {
+        "runtime": {
+          "코드 흐름 제어.dll": {}
+        }
+      },
+      "C# Study/1.0.0": {
+        "runtime": {
+          "C# Study.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "코드 흐름 제어/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C# Study/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
