@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C-Study\Sannavi\bin\Debug\net6.0\Sannavi.exe
+C:\Users\Administrator\Desktop\C-Study\Sannavi\bin\Debug\net6.0\Sannavi.deps.json
+C:\Users\Administrator\Desktop\C-Study\Sannavi\bin\Debug\net6.0\Sannavi.runtimeconfig.json
+C:\Users\Administrator\Desktop\C-Study\Sannavi\bin\Debug\net6.0\Sannavi.dll
+C:\Users\Administrator\Desktop\C-Study\Sannavi\bin\Debug\net6.0\Sannavi.pdb
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\Sannavi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\Sannavi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\Sannavi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\Sannavi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\Sannavi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\Sannavi.dll
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\refint\Sannavi.dll
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\Sannavi.pdb
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\Sannavi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C-Study\Sannavi\obj\Debug\net6.0\ref\Sannavi.dll
